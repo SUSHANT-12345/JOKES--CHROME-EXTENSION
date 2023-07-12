@@ -1,0 +1,14 @@
+
+    {
+        "name": "  Jokes",
+        "description":"when open the extension a new joke will appear",
+        "version": "0.0.1",
+        "manifest_version": 3,
+        
+            "default_popup": "popup.html",
+            "default_icon": "ph.png",
+       
+        "icons": {
+            "64": "ph.png"
+        }
+    } 
